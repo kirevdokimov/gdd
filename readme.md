@@ -1,10 +1,12 @@
+![gif](gif0.gif)
+
 # GDD
-Simple tool to solve pain in ass when you want to add some files to stage, but not all.
+A simple tool to solve a pain in the ass when you want to add some files to stage, but not all.
 
 # How to install
 
 ```
-sudo sh -c "$(curl -sSL link-to-install-script-here)"
+sudo sh -c "$(curl -sSL https://raw.githubusercontent.com/kirevdokimov/gdd/master/install.sh)"
 ```
 # How to use
 
